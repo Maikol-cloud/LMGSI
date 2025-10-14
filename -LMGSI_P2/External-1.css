@@ -1,0 +1,81 @@
+/*External CSS*/
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    color: chocolate;
+    text-align: center;
+}
+
+table {
+    border: 1px, solid black;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+}          
+
+caption {
+    font-size: 25px;
+    margin-bottom: 10px;
+    color: cadetblue;
+    text-align:center;
+
+}
+
+th{
+    padding: 30px;
+    font-size: 25px;
+    background-color: darkgoldenrod;
+    text-align: center;
+    border: solid black
+}
+
+td {
+    border: 2px solid black;
+    text-align: center;
+    padding: 30px;
+    font-size: 25px;
+}
+
+.Maquinaria {
+    background-color: lawngreen;
+}
+
+.xarxes {
+    background-color: blueviolet;
+}
+
+.anglès {
+    background-color: aliceblue;
+}
+
+.gbds {
+    background-color: crimson;
+}
+
+.iso {
+    background-color: lightcoral;
+}
+
+.ipoi {
+    background-color: hotpink;
+    
+}
+
+.marques {
+    background-color: aquamarine;
+}
+
+#descans {
+    text-align: center;
+    text-size-adjust: 20px;
+    padding: 15px;
+}
+
+.hores{
+    font-size: 20px;
+    width: 180px;
+    padding: 10px;
+}
